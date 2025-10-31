@@ -1,7 +1,8 @@
 # 🎓 Final Project: Data Analysis & Hypothesis Testing
 
+ **Iqbal Maulana Hakim** (NIM: A11.2023.15100).
 ## 📘 Deskripsi Proyek
-Proyek ini merupakan bagian dari tugas akhir **Analisis Data** yang dilakukan oleh **Iqbal Maulana Hakim** (NIM: A11.2023.15100).  
+Proyek ini merupakan bagian dari tugas akhir **Analisis Data**   
 Tujuan proyek ini adalah untuk melakukan **analisis data eksploratif (EDA)** dan **uji hipotesis statistik** menggunakan dataset *Students Performance in Exams*.
 
 ---
